@@ -1,0 +1,6 @@
+<resources>
+    <string name="modulea_app_name">ModuleA</string>
+    <string name="modulea_des">我是ModuleA</string>
+    <string name="modulea_aa">aa</string>
+    <string name="modulea_moduleb">跳转到ModuleB</string>
+</resources>
