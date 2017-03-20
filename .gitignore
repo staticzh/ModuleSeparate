@@ -7,3 +7,15 @@
 /build
 /captures
 .externalNativeBuild
+/.idea
+/ModuleSeparate.iml
+/.gradle
+/ModuleA/libs
+/ModuleA/ModuleA.iml
+/ModuleA/build
+/ModuleB/libs
+/ModuleB/ModuleB.iml
+/ModuleB/build
+/commonlibrary/libs
+/commonlibrary/commonlibrary.iml
+/commonlibrary/build
